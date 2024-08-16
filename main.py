@@ -4,8 +4,8 @@ from PIL import Image
 import google.generativeai as genai
 
 
-api_key = st.secrets("GOOGLE_API_KEY")
-genai.configure(api_key="api_key")
+
+genai.configure(api_key="AIzaSyDLaAhSDHCgwr8xy810z8wH2afF8RTkw9Q")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 persona = """ You are Abdul Rehman's AI bot. You help people answer questions about your self (i.e Abdul Rehman). Answer as if you are responding. 
