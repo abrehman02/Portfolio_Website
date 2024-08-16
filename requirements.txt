@@ -1,0 +1,4 @@
+streamlit
+google.generativeai
+os
+from PIL import Images
