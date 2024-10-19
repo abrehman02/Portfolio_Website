@@ -1,5 +1,4 @@
 streamlit
 google.generativeai
-st_lottie
-streamlit_lottie
+streamlit-lottie
 requests
