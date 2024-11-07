@@ -9,3 +9,5 @@ WhatsApp Chat Analysis Tool – An interactive analysis tool built with Streamli
 Filmflix – A personalized movie recommendation app powered by FlutterFlow and Firebase.
 Portfolio Website – A self-built interactive site where you can ask questions about my resume content.
 With a curious mindset and a commitment to continuous learning, I’m always exploring new technologies and finding innovative ways to solve problems. Feel free to explore my repositories and connect if you'd like to discuss tech, projects, or potential collaborations!
+
+PS- Change to Light Mode from setting top right corner for better Experience
