@@ -231,7 +231,7 @@ st_lottie(lottie_animation, height=300)
 st.markdown(
     """
     <div class="footer">
-        <p>Developed by Abdul Rehman © 2024</p>
+        <p>Developed by Abdul Rehman © 2025</p>
     </div>
     """,
     unsafe_allow_html=True
