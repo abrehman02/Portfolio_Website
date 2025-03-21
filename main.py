@@ -184,7 +184,7 @@ if 'current_index' not in st.session_state:
 # Function to display images with navigation buttons
 def display_image_with_navigation():
     num_images = len(images)  # Total number of images
-    st.image(images[st.session_state.current_index], use_column_width=True)  # Display current image
+    st.image(images[st.session_state.current_index], use_container_width=True)  # Display current image
 
     # Create navigation buttons
     col1, col2, col3 = st.columns([1, 4.2, 0.8])
